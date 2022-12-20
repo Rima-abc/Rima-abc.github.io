@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;700&display=swap');
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #EAD9C9;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color:#B47757;
+}
+
+.topnav a {
+  float: left;
+  color: #5C2D15;
+  text-align: center;
+  padding: 20px 20px;
+  text-decoration: none;
+  font-size: 17px;
+  font-family: 'Merriweather', serif;
+}
+
+.topnav a:hover {
+  background-color: #5C2D15;
+  color: #5C2D15;
+}
+
+.topnav a.active {
+  background-color: #B47757;
+  color: #EAD9C9;
+}
+
+ h3 {text-align: center;
+ color:#5C2D15 ;
+ font-family: 'Merriweather', serif;
+
+
+div.container {
+  text-align: center;
+}
+
+ul.myUL {
+  display: inline-block;
+  text-align: left;
+}
+
+
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table, th, td {
+  border:1px solid #5C2D15;
+}
+
+
+
